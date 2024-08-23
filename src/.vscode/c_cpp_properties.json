@@ -1,0 +1,21 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "/usr/include/**",
+                "/opt/ros/humble/include/**",
+                "~/robot_ws/src/**",
+                "/home/yunsy616/robot_ws/src/move_t_sim/include/**",
+                "/home/yunsy616/robot_ws/install/interface_example/include/interface_example/**",
+                "/opt/ros/humble/include/rclcpp_action"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "c17",
+            "cppStandard": "gnu++17",
+            "intelliSenseMode": "linux-gcc-x64"
+        }
+    ],
+    "version": 4
+}
